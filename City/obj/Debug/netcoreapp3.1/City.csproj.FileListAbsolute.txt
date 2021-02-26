@@ -1,0 +1,13 @@
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.csprojAssemblyReference.cache
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfoInputs.cache
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfo.cs
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.csproj.CoreCompileInputs.cache
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.exe
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.deps.json
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.json
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.dev.json
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.dll
+C:\Users\David-NO GAMES -_-\source\repos\City\City\bin\Debug\netcoreapp3.1\City.pdb
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.dll
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.pdb
+C:\Users\David-NO GAMES -_-\source\repos\City\City\obj\Debug\netcoreapp3.1\City.genruntimeconfig.cache
