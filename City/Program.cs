@@ -26,6 +26,7 @@ namespace City
     {
         public House(int houseSize) : base(houseSize)
         {
+            // just a comment
         }
 
         public override bool canPark()
